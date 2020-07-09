@@ -4,6 +4,5 @@ Ito, T. and Sugasawa, S. (2020). Grouped GEE Analysis for Longitudinal Data. htt
 
 The repository includes the following 2 files.
 
-GGEE-function.R : The script implementing the proposed method 
-
-Sim-oneshot.R : The script for one-shot simulation study 
+*GGEE-function.R : The script implementing the proposed method 
+*Sim-oneshot.R : The script for one-shot simulation study 
